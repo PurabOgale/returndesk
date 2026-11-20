@@ -2,7 +2,7 @@
 
 A full-stack returns and replacements support desk built with **Next.js (App Router)**, **TypeScript**, **PostgreSQL (`pg` / raw SQL)**, and **Tailwind CSS**.
 
-> **Live Deployment:** _Pending deployment — see [Deploying to Vercel & Neon/Supabase](#deploying-to-vercel--neonsupabase) below._
+> **Live Deployment:** https://returndesk-fawn.vercel.app
 
 ---
 
